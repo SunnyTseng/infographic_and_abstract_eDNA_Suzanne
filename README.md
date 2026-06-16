@@ -3,10 +3,14 @@
 ## About
 
 - Client: Suzanne Stevenson
-- **Institution: FRI**
+- **Institution: FRI (?)**
+- **Contact phone number:**
+- Contact email: suzanne@poseidonenvironmentalltd.com
 - Title: Rainbow Trout presence at stream crossings in Alberta's Eastern Slopes: insights from
 environmental DNA, electrofishing, and habitat assessments
-- [Outline](./docs/outline.md)
+- [Graphical Abstract Outline](./docs/outline_GA.md)
+- [Infographic Outline](./docs/outline.md)
+
 
 
 ## Request from client
@@ -33,7 +37,7 @@ One graphical abstract and one infogrphic for the research manuscript
 ## Expected output
 
 ### Graphical abstract
-- **Check with client**
+- **Check with client - journal requirements (?)**
 
 ### Infographic
 - Dimension: 1920x1080 pixel
