@@ -27,7 +27,7 @@ Ideas for graphics
 Monitoring Rainbow Trout: Comparing eDNA and Electrofishing at Stream Crossings
 
 ### Introduction
-Athabasca Rainbow Trout are Endangered federally due to habitat fragmentation, sedimentation, and stream crossings that act as fish passage barriers. It is essential to have rapid, reliable tools to confirm trout presence in remote, low-density headwater streams and prioritize crossings for habitat restoration.
+Athabasca Rainbow Trout (Oncorhynchus mykiss) are Endangered federally due to habitat fragmentation, sedimentation, and stream crossings that act as fish passage barriers. It is essential to have rapid, reliable tools to confirm trout presence in remote, low-density headwater streams and prioritize crossings for habitat restoration.
 
 In this study, we compared two methods—environmental DNA (eDNA) and backpack electrofishing—to examine their efficiency and sensitivity in determining the occurrence of Rainbow Trout at these barriers.
 
