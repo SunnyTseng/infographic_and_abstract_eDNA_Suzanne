@@ -1,50 +1,41 @@
-# Infographic design for a Horned Grebe study
-
+# Infographic design for a Rainbow Trout eDNA study
 
 ## About
-This is an infographic design contract from Kirsty Gurney (ECCC) for a presentation in the upcoming “Science to Policy” day meeting. 
 
+- Client: Suzanne Stevenson
+- **Institution: FRI**
+- Title: Rainbow Trout presence at stream crossings in Alberta's Eastern Slopes: insights from
+environmental DNA, electrofishing, and habitat assessments
 - [Outline](./docs/outline.md)
 
 
 ## Request from client
 
-We will include the infographic as slide in the presentation deck, so it can be projected in the room and displayed online simultaneously. Dimensions fitting the default ‘widescreen’ (16:9) format in PowerPoint are preferred. High-resolution imagery would be ideal, but the slides/infographics themselves will be presented as the standard powerpoint slide sizes.
+One graphical abstract and one infogrphic for the research manuscript
 
 
 ## Product
 
-#### version 3 (2025 Nov.10)
-
-Download this file in [PDF](./product/horned_grebe_infographic_v3.pdf), [PNG](./product/horned_grebe_infographic_v3.png), or [JPG](./product/horned_grebe_infographic_v3.jpg)
-
-![](./product/horned_grebe_infographic_v3.jpg)
-
-#### version 2 (2025 Nov.9)
-
-Download this file in [PDF](./product/horned_grebe_infographic_v2.pdf), [PNG](./product/horned_grebe_infographic_v2.png), or [JPG](./product/horned_grebe_infographic_v2.jpg)
-
-![](./product/horned_grebe_infographic_v2.jpg)
-
-#### version 1 (2025 Nov.8)
-
-![](./product/horned_grebe_infographic_v1.jpg)
+**Final products will be shared here.**
 
 
 ## Time line
 
 | Item | Due | Communication with client |
 | ----------- | ------------- | ------ |
-| Draft of the text content | Oct.29 | agree on the text content |
-| Graphic design            | Nov.4 |   |
-| Text design               | Nov.7 |   |
-| First product             | Nov.9 | review of the product     |
-| Revision(s)*              | Nov.11  |   | 
+| Draft of the text content and design idea | Jun.19 | agree on the text content |
+| Graphic abstract first product    | Jun.26 | review of the product  |
+| Infographic product         | Jul.3 | review of the product  |
+| Revision(s)*              | Jul.5  |   | 
 
-*Sunny will provide 2 rounds of minor revisions for the final product. Minor revisions are usually within 1 hour of editing time for each round of revisions. After that it will be charged $35 per hour.
+*Sunny will provide 2 rounds of minor revisions for the final product. Minor revisions are usually within 1 hour of editing time for each round of revisions. After that it will be charged $40 per hour.
 
 ## Expected output
 
+### Graphical abstract
+- **Check with client**
+
+### Infographic
 - Dimension: 1920x1080 pixel
 - Orientation: Horizental
 - Color: coloured
@@ -52,16 +43,14 @@ Download this file in [PDF](./product/horned_grebe_infographic_v2.pdf), [PNG](./
 
 ## Expected compensation
 
-A total cost ranging from $900 to $1000 CAD.
+- Graphical Abstract: $450 – $650 CAD
+- Infographic: $900 – $1,100 CAD
 
-| Expected hours | Task |
-| --- | --- |
-| 6 | materials collection and text processing |
-| 4 | communication (i.e., email, video call) |
-| 10 | visual design |
-| 4 | text design |
-| 2 | review and final editing of the work |
-| 2 | others |
+Payment is due immediately upon receipt of the final deliverables. Payment can be made via one of the following methods:
+
+- Interac e-Transfer: Send to sunnyyctseng@gmail.com
+- Direct Deposit: Bank details provided upon request (or see attached bank details)
+- Cheque: Mail to 1228 Arbutus Street, Vancouver, BC, V6J 3W6
 
 
 ## Tools

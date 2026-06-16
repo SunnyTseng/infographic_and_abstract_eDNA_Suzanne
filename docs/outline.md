@@ -23,29 +23,28 @@ Ideas for graphics
 
 ## Info for the infographic
 
-### Title 
+### Title
+Monitoring Rainbow Trout: Comparing eDNA and Electrofishing at Stream Crossings
 
-Highlighting connections: assessing risks for a migratory bird to inform COSEWIC status reports
+### Introduction
+Athabasca Rainbow Trout are Endangered federally due to habitat fragmentation, sedimentation, and stream crossings that act as fish passage barriers. It is essential to have rapid, reliable tools to confirm trout presence in remote, low-density headwater streams and prioritize crossings for habitat restoration.
+
+In this study, we compared two methods—environmental DNA (eDNA) and backpack electrofishing—to examine their efficiency and sensitivity in determining the occurrence of Rainbow Trout at these barriers.
 
 
+### Method
+- We evaluated 72 stream crossings (potential fish barriers) within the Hinton Forest Management Area
 
-### Introduction 
-Guiding the conservation of migratory birds is central to Canada’s commitments under the Migratory Bird Convention Act and Species at Risk Act, yet recent findings from the Office of the Auditor General highlight that ECCC needs to provide stronger support for timely COSEWIC status assessments. To support timely and effective conservation of migratory birds, we investigated the Horned Grebe’s (Western population) annual movements, migratory connectivity, and contaminant exposure in eggs and plasma.
-
-### Method 
-- We used external tracking devices and collected multiple tissue samples (blood, eggs, feathers) from birds trapped in Saskatchewan and the Northwest Territories to fill critical knowledge gaps identified in the COSEWIC Management Plan for this species.
-
+- At each site, we paired electrofishing surveys with non-invasive environmental DNA (eDNA) water sampling, and habitat assessments.
 
 ### Results
-- All Horned Grebes migrated southeast in the fall and spent their non-breeding seasons on marine and freshwater non-breeding locations from southeastern Canada to the Atlantic Coast and Gulf of Mexico.
+- Environmental DNA (eDNA) sampling detected Rainbow Trout at 31 sites, compared to only 17 sites (all covered by eDNA survey) via electrofishing—representing an 82% increase in detection sensitivity.
 
-- Many individuals spent time at or near the Great Lakes, suggesting this is an important stopover location for Canadian Horned Grebe populations.
+- Operationally, a single field technician could sample ~8 eDNA sites per day, whereas electrofishing required a minimum 2-person crew and averaged only 2 sites per day.
 
-- Levels of persistent organic pollutants in eggs were generally low compared to known effects levels and showed declines from historical levels.
-
-- Neonicotinoid pesticides were detected in 63% of samples – concentrations and frequency of detection were higher in Horned Grebes trapped in the Northwest Territories.
+- Trout presence was driven by stream size and depth rather than crossing conditions: Detections rose significantly with stream size (from 16.7% in 1st-order to 75% in 3rd-order streams), featuring greater channel widths, deeper water, and deeper culvert scour pools—whereas crossing risk ratings or hang heights alone did not predict trout occupancy.
 
 
 
 ### Conclusion
-Our data shows that conditions on breeding areas (rather than further south) are more likely to affect Horned Grebe productivity and that protection of critical breeding habitats (such as ensuring buffers around wetlands to absorb pollutants) will have the greatest conservation impact for this species.
+Our data demonstrates that eDNA provides a more sensitive, non-invasive, and cost-effective approach than electrofishing for large-scale presence-absence monitoring.
