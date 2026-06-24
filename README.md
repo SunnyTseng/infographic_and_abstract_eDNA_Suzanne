@@ -3,20 +3,19 @@
 ## About
 
 - Client: Suzanne Stevenson
-- **Institution: FRI (?)**
-- **Contact phone number:**
+- Institution: Poseidon Environmnetal Ltd.
+- Contact phone number: 780-223-8533
 - Contact email: suzanne@poseidonenvironmentalltd.com
 - Title: Rainbow Trout presence at stream crossings in Alberta's Eastern Slopes: insights from
 environmental DNA, electrofishing, and habitat assessments
+
+
+
+## Information from client
+
 - [Graphical Abstract Outline](./docs/outline_GA.md)
 - [Infographic Outline](./docs/outline.md)
-
-
-
-## Request from client
-
-One graphical abstract and one infogrphic for the research manuscript
-
+- [Visual Assets](./docs/FSCP_InspectionProtocolsManual_V06.pdf)
 
 ## Product
 
@@ -37,7 +36,9 @@ One graphical abstract and one infogrphic for the research manuscript
 ## Expected output
 
 ### Graphical abstract
-- **Check with client - journal requirements (?)**
+- Canadian Journal of Fisheries and Aquatic Sciences (CJFAS)
+- [Guideline](https://cdnsciencepub.com/journal/cjfas/authors)
+- Authors are encouraged to submit an illustration, diagram, equation, or other informative visual that explains the central message of the article and entices readers. The maximum allowable size is 40 mm (150 pixels) high by 85 mm (320 pixels) wide.
 
 ### Infographic
 - Dimension: 1920x1080 pixel
