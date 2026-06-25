@@ -32,12 +32,6 @@ environmental DNA, electrofishing, and habitat assessments
 
 
 
-
-#### version 1 (2026-06-25)
-
-
-
-
 ## Time line
 
 | Item | Due | Communication with client |
