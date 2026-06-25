@@ -20,8 +20,21 @@ environmental DNA, electrofishing, and habitat assessments
 ## Product
 
 ### Graphical abstract
+
+#### version 1 & 2 (2026-06-25) 
+
+[Design file (PNG)](./product/trout_graphical_abstract_v2.png) following journal formatiing requirement (260px by 150px)
+
+| version 1 | version 2 |
+| :--- | :---: | 
+| ![](./product/trout_graphical_abstract_v1_high_res.png) | ![](./product/trout_graphical_abstract_v2_high_res.png) |
+
+
+
+
+
 #### version 1 (2026-06-25)
-![](./product/trout_graphical_abstract_v1.png)
+
 
 
 
