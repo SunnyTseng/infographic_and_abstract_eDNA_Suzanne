@@ -19,7 +19,10 @@ environmental DNA, electrofishing, and habitat assessments
 
 ## Product
 
-**Final products will be shared here.**
+### Graphical abstract
+#### version 1 (2026-06-25)
+![](./product/trout_graphical_abstract_v1.png)
+
 
 
 ## Time line
