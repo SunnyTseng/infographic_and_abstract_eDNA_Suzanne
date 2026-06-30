@@ -30,6 +30,11 @@ Design files ([version 1](./product/trout_graphical_abstract_v1.png) and [versio
 | ![](./product/trout_graphical_abstract_v1_high_res.png) | ![](./product/trout_graphical_abstract_v2_high_res.png) |
 
 
+### Infographic 
+
+#### version 1 (2026-06-30)
+
+![](./product/trout_infographic_v1.png)
 
 
 ## Time line
